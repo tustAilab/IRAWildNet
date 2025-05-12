@@ -17,9 +17,5 @@ Multi-species animal monitoring in habitats is crucial for wildlife conservation
 - **pytorch 1.7.0 or higher**
 - **More details from requirements.txt** 
 
-## Datasets
-
-Our dataset can be downloaded from this link.
-
 
 
